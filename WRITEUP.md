@@ -25,3 +25,4 @@ Choice: Using Web App Service to deploy my app. The factors that select this way
 ### Assess app changes that would change your decision.
 
 *Detail how the app and any other needs would have to change for you to change your decision in the last section.* 
+If this project requires something such as the operating system, hardware, install the software or we want to manage our resources such as CPU, memory, disk, VM is the best choice for deploying the project.
