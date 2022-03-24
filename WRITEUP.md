@@ -17,10 +17,8 @@ Analyze:
 | Workflow      | Deployment will be more complicated because it involes the operation system such as OS update | Something like an operating system, hardware is not required, so deployment will be fast| 
 
 
-Choice: Using Web App Service to deploy my app. Because:
-		- my project does'nt required about the operating system. 
-		- the price of Web App Service is cheaper than VM
-		- Deployment using Web App Service is quicker than using VM
+Choice: Using Web App Service to deploy my app. The factors that select this way because I need to concentrate on app deployment without worrying about something such as upgrading the operating system, hardware. Besides, using Web app service for deploying the project is cheaper than using Virtual Machine. Finally, the last factor that I choose this way because it is simpler and quicker to deploy.
+
 		
 
 
